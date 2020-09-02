@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 class AppWidget extends StatelessWidget {
@@ -7,8 +8,9 @@ class AppWidget extends StatelessWidget {
     return MaterialApp(
       navigatorKey: Modular.navigatorKey,
       title: 'Flutter Slidy',
-      theme: ThemeData(
-        primarySwatch: Colors.amber,
+      theme: Theme.of(context).copyWith(
+        primaryColor: Colors.white,
+        primaryColorBrightness: Brightness.dark,
       ),
       initialRoute: '/',
       onGenerateRoute: Modular.generateRoute,

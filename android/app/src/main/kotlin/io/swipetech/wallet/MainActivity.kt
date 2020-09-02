@@ -1,4 +1,4 @@
-package com.example.swipe_wallet
+package io.swipetech.wallet
 
 import io.flutter.embedding.android.FlutterActivity
 
