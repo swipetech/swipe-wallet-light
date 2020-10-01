@@ -1,0 +1,279 @@
+{
+  "project_info": {
+    "project_number": "110105259159",
+    "firebase_url": "https://swipe-wallet-dev.firebaseio.com",
+    "project_id": "swipe-wallet-dev",
+    "storage_bucket": "swipe-wallet-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110105259159:android:262f65b0f0531ccdeecdd2",
+        "android_client_info": {
+          "package_name": "br.com.starpay.starpayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110105259159-h2orhkj5hhc8bro9893ilbc1btlqpskp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.starpay.starpayapp",
+            "certificate_hash": "d298aee0f311164fa6724f6d5b3404a66a97d166"
+          }
+        },
+        {
+          "client_id": "110105259159-if111l6jak43on72p2gj0ot6ai2uiqkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.starpay.starpayapp",
+            "certificate_hash": "99eb2aa29e2a528f845173205700c291d95071c2"
+          }
+        },
+        {
+          "client_id": "110105259159-25fhtop97p2uvhcuq8jvvlr0bgr1squk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.starpay.starpayapp",
+            "certificate_hash": "c1751dc8d3fd2d5b113eb2c6937338916d779ff7"
+          }
+        },
+        {
+          "client_id": "110105259159-q1396k194rui5j4rmqq4iiuf75gsq6n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.starpay.starpayapp",
+            "certificate_hash": "f36a3b78f9a3544366510448b7d3f0b4983bdbe8"
+          }
+        },
+        {
+          "client_id": "110105259159-jnbsmven4khsb01kegn3au1t97raev1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.starpay.starpayapp",
+            "certificate_hash": "aa8f0f012f2099ce21d0202643dd4746aa3dcbfe"
+          }
+        },
+        {
+          "client_id": "110105259159-aj87hr2gm9bpddvaaguq22t79e7e90kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkcvQHXr7nbAWZky_0C9ZsyIZJisHbE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110105259159-p7jmq9bv0iil40vq294r6ki1gcltlu5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110105259159:android:9816ce261f3ec2dceecdd2",
+        "android_client_info": {
+          "package_name": "io.swipetech.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110105259159-7hvpumluhgsjbdsh4ifd53sals3ljbun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.app",
+            "certificate_hash": "d298aee0f311164fa6724f6d5b3404a66a97d166"
+          }
+        },
+        {
+          "client_id": "110105259159-ivc4ui7jhq6kk4vepo9fom2qj3bjurti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.app",
+            "certificate_hash": "99eb2aa29e2a528f845173205700c291d95071c2"
+          }
+        },
+        {
+          "client_id": "110105259159-p3srm642vq13qt86j9bvu0if5o1toj4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.app",
+            "certificate_hash": "c1751dc8d3fd2d5b113eb2c6937338916d779ff7"
+          }
+        },
+        {
+          "client_id": "110105259159-12pgb2peuj5fj59o2h484qd0ajc1afrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.app",
+            "certificate_hash": "f36a3b78f9a3544366510448b7d3f0b4983bdbe8"
+          }
+        },
+        {
+          "client_id": "110105259159-or01p2b1vb8r4la9o6k61k0ellci141u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.app",
+            "certificate_hash": "aa8f0f012f2099ce21d0202643dd4746aa3dcbfe"
+          }
+        },
+        {
+          "client_id": "110105259159-aj87hr2gm9bpddvaaguq22t79e7e90kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkcvQHXr7nbAWZky_0C9ZsyIZJisHbE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110105259159-p7jmq9bv0iil40vq294r6ki1gcltlu5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110105259159:android:e8a9d4109cda056deecdd2",
+        "android_client_info": {
+          "package_name": "io.swipetech.realfintech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110105259159-hs8va27epc462jk3p64kkdinuknv9a0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.realfintech",
+            "certificate_hash": "aa8f0f012f2099ce21d0202643dd4746aa3dcbfe"
+          }
+        },
+        {
+          "client_id": "110105259159-vii0bcos9ict7uu526lgm2cejgbnp05j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.realfintech",
+            "certificate_hash": "f36a3b78f9a3544366510448b7d3f0b4983bdbe8"
+          }
+        },
+        {
+          "client_id": "110105259159-ad379njfofcackec2ecil0mv946jvhr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.realfintech",
+            "certificate_hash": "c1751dc8d3fd2d5b113eb2c6937338916d779ff7"
+          }
+        },
+        {
+          "client_id": "110105259159-h1egebngj6mvrfnmobej7m8gi9ivgnee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.realfintech",
+            "certificate_hash": "99eb2aa29e2a528f845173205700c291d95071c2"
+          }
+        },
+        {
+          "client_id": "110105259159-2jp89uk0lils8ov6lgu7f43rmnsqa650.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.realfintech",
+            "certificate_hash": "d298aee0f311164fa6724f6d5b3404a66a97d166"
+          }
+        },
+        {
+          "client_id": "110105259159-aj87hr2gm9bpddvaaguq22t79e7e90kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkcvQHXr7nbAWZky_0C9ZsyIZJisHbE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110105259159-p7jmq9bv0iil40vq294r6ki1gcltlu5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110105259159:android:bf3f103b45af8953eecdd2",
+        "android_client_info": {
+          "package_name": "io.swipetech.swipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110105259159-579sbf4h2mdg2hhcrf4e9dtj4h9vii5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.swipe_app",
+            "certificate_hash": "d298aee0f311164fa6724f6d5b3404a66a97d166"
+          }
+        },
+        {
+          "client_id": "110105259159-ieq5rvv0ruu3d9pt9tau1bdqfnft9m5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.swipe_app",
+            "certificate_hash": "99eb2aa29e2a528f845173205700c291d95071c2"
+          }
+        },
+        {
+          "client_id": "110105259159-om6cad0fov5olqp7g1am6c8oeqiong6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.swipe_app",
+            "certificate_hash": "ae02d6b7e5b63b282de78dad535b166cb87280e8"
+          }
+        },
+        {
+          "client_id": "110105259159-s0sf3njrk33as9tisjjvquoinh5j6lm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.swipetech.swipe_app",
+            "certificate_hash": "c1751dc8d3fd2d5b113eb2c6937338916d779ff7"
+          }
+        },
+        {
+          "client_id": "110105259159-aj87hr2gm9bpddvaaguq22t79e7e90kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkcvQHXr7nbAWZky_0C9ZsyIZJisHbE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110105259159-p7jmq9bv0iil40vq294r6ki1gcltlu5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

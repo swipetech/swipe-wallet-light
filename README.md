@@ -1,6 +1,6 @@
-# swipe_wallet
+# swipe_app
 
-A simple white label wallet from Swipe
+A new Flutter project.
 
 ## Getting Started
 
