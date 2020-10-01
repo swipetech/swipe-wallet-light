@@ -32,9 +32,6 @@ class AuthenticationServiceImpl implements AuthenticationService {
       (await _swipeClient.login.newLoginSession(email, password, 10)).sessionId;
 
   @override
-  Future<void> signOut() => _swipeClient.login.destroyLoginSession();
-
-  @override
   Future<String> signUp(String email, String password) async {
     return null;
   }

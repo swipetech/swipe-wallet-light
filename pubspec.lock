@@ -876,7 +876,7 @@ packages:
   swipe_sdk:
     dependency: "direct main"
     description:
-      path: "../swipe-sdk-dart"
+      path: "../swipe-sdk-dart-light"
       relative: true
     source: path
     version: "0.0.1"

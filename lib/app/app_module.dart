@@ -9,7 +9,6 @@ import 'package:swipe_app/app/modules/register/register_module.dart';
 import 'package:swipe_app/app/modules/splash/splash_module.dart';
 import 'package:swipe_app/app/shared/repositories/user/impl/user_repository_impl.dart';
 import 'package:swipe_app/app/shared/services/impl/authentication_service_impl.dart';
-import 'package:swipe_app/app/shared/services/impl/ledger_service_impl.dart';
 import 'package:swipe_app/app/shared/services/secret_loader_service.dart';
 
 class AppModule extends MainModule {
@@ -18,7 +17,6 @@ class AppModule extends MainModule {
         Bind((i) => AppController()),
         Bind((i) => AuthenticationServiceImpl()),
         Bind((i) => UserRepositoryImpl()),
-        Bind((i) => LedgerServiceImpl()),
         Bind((i) => SecretLoader(secretPath: "secrets.json"))
       ];
 

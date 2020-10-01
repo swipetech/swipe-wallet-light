@@ -11,8 +11,6 @@ abstract class AuthenticationService {
 
   Future<void> sendEmailVerification();
 
-  Future<void> signOut();
-
   Future<bool> isEmailVerified();
 
   Future<bool> isPhoneVerified();
