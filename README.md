@@ -6,7 +6,12 @@ First, rename the file _secrets.sample.json_ to _secrets.json_ and add the right
 Make sure you downloaded or cloned the project [Swipe Dart SDK](https://github.com/swipetech/swipe-sdk-dart-light)  
 in the same level as this project. It is a dependency.
 
-Inside the root of the project run:
+Inside install de packages:
+```bash
+flutter pup get
+```
+
+Build de project:
 ```bash
 flutter build apk --debug
 ```
