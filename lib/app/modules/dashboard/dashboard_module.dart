@@ -9,8 +9,8 @@ class DashboardModule extends ChildModule {
       ];
 
   @override
-  List<Router> get routers => [
-        Router(Modular.initialRoute, child: (_, args) => DashboardPage()),
+  List<ModularRouter> get routers => [
+        ModularRouter(Modular.initialRoute, child: (_, args) => DashboardPage()),
       ];
 
   static Inject get to => Inject<DashboardModule>.of();
