@@ -1,16 +1,16 @@
-# swipe_app
+# Swipe Wallet Light
 
-A new Flutter project.
+## How to build
 
-## Getting Started
+First, rename the file _secrets.sample.json_ to _secrets.json_ and add the right credentials and asset value.
+Make sure you downloaded or cloned the project [Swipe Dart SDK](https://github.com/swipetech/swipe-sdk-dart-light)  
+in the same level as this project. It is a dependency.
 
-This project is a starting point for a Flutter application.
+Inside the root of the project run:
+```bash
+flutter build apk --debug
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Download
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We have an android apk built: [Android APK](https://drive.google.com/file/d/1S_rHa4YGZQ_qarUqqsrNNJskXrCnJM1K/view?usp=sharing) 
